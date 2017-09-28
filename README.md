@@ -1,6 +1,6 @@
 # WorldCasper2
 
-WorldCasper2 is Casper 2.0, [Ghost](http://github.com/tryghost/ghost/)'s default theme, made translatable into any language.
+WorldCasper2 is Casper 2.x, [Ghost](http://github.com/tryghost/ghost/)'s default theme, made translatable into any language.
 
 For example, in _.hbs_ theme templates:
 ```
