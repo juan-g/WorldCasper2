@@ -46,7 +46,7 @@
                     <section class="gh-flow-content">
                         {{^if success}}
                             <header>
-                                <h1>{{t "Subscribe to"}} {{@blog.title}}</h1>
+                                <h1>{{t "Subscribe to {blogtitle}" blogtitle=@blog.title}}</h1>
                             </header>
 
                             {{subscribe_form
