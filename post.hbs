@@ -41,7 +41,7 @@ into the {body} of the default.hbs template --}}
             {{!-- Email subscribe form at the bottom of the page --}}
             {{#if @labs.subscribers}}
             <section class="subscribe-form">
-                <h3 class="subscribe-form-title">{{t "Subscribe to"}} {{@blog.title}}</h3>
+                <h3 class="subscribe-form-title">{{t "Subscribe to {blogtitle}" blogtitle=@blog.title}}</h3>
                 <p>{{t "Get the latest posts delivered right to your inbox"}}</p>
                 {{subscribe_form placeholder=(t "youremail@example.com")}}
             </section>
