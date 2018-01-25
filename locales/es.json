@@ -1,11 +1,10 @@
 {
     "Back": "Volver",
     "Newer Posts": "Artículos Siguientes",
-    "of": "de",
     "Older Posts": "Artículos Anteriores",
-    "Page": "Página",
+    "Page {page} of {pages}": "Página {page} de {pages}",
     "Subscribe": "Suscríbete",
-    "Subscribe to": "Suscríbete a",
+    "Subscribe to {blogtitle}": "Suscríbete a {blogtitle}",
     "Subscribed!": "¡Suscrito!",
     "with the email address": "con el correo electrónico",
     "Your email address": "Tu correo electrónico",
@@ -21,8 +20,6 @@
     "See all % posts": "Ver todos los % artículos",
     "Share this": "Comparte",
     "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox": "¡Mantente al día! Recibe todos los últimos y mejores artículos directamente en tu buzón",
-    "Subscribe": "Suscríbete",
-    "Subscribe to": "Suscríbete a",
     "youremail@example.com": "tucorreo@ejemplo.com",
     "1 post": "1 artículo",
     "% posts": "% artículos"
