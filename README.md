@@ -7,16 +7,20 @@ For example, in _.hbs_ theme templates:
 {{t "Get the latest posts delivered right to your inbox"}}
 ```
 
+Currently available languages:
+
+- Chinese (`zh`)
+- English (`en`)
+- German (`de`)
+- Spanish (`es`)
+
 The master branch is Casper.
 
 The translatable branch is [i18n-translatable-frontend](https://github.com/juan-g/WorldCasper2/tree/i18n-translatable-frontend).
 
-For Casper 1.4 made translatable, see [WorldCasper1](https://github.com/juan-g/WorldCasper1/tree/i18n-translatable-frontend).
+For Casper 1.4 made translatable, see [WorldCasper1](https://github.com/juan-g/WorldCasper1).
 
-Details in Ghost's [content/locales/TRANSLATIONS.md](https://github.com/juan-g/Ghost/blob/i18n-translatable-frontend/content/locales/TRANSLATIONS.md).
-
-See also Ghost's pull request [TryGhost/Ghost#8437](https://github.com/TryGhost/Ghost/pull/8437).
-
+Details in Ghost's blog post [Theme translations and blog localisation](https://dev.ghost.org/theme-translations/).
 
 # Casper
 
