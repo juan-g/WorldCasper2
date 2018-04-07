@@ -11,6 +11,7 @@ Currently available languages:
 
 - Chinese (`zh`)
 - English (`en`)
+- Finnish (`fi`)
 - French (`fr`)
 - German (`de`)
 - Spanish (`es`)
