@@ -15,6 +15,7 @@ Currently available languages:
 - French (`fr`)
 - German (`de`)
 - Spanish (`es`)
+- Swedish (`sv`)
 
 The master branch is Casper.
 
