@@ -14,6 +14,7 @@ Currently available languages:
 - Finnish (`fi`)
 - French (`fr`)
 - German (`de`)
+- Romanian (`ro`)
 - Spanish (`es`)
 - Swedish (`sv`)
 
