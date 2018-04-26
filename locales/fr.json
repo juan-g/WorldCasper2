@@ -14,7 +14,7 @@
     "A collection of % posts": "Une catégorie avec % articles",
     "Get the latest posts delivered right to your inbox": "Recevez les derniers articles directement dans votre boîte aux lettres.",
     "Latest Posts": "Derniers articles",
-    "<a href='{url}'>More posts</a> by {name}": "<a href='{url}'>More posts</a> by {name}",
+    "<a href='{url}'>More posts</a> by {name}": "<a href='{url}'>Plus d'articles</a> par {name}",
     "No posts": "Aucun article",
     " (Page %)": " (Page %)",
     "Read More": "En savoir plus",
@@ -22,10 +22,10 @@
     "See all % posts": "Voir les % articles",
     "Share this": "Partager",
     "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox": "Restez à jour ! Recevez tous les derniers articles directement dans votre boîte aux lettres.",
-    "This post was a collaboration between": "This post was a collaboration between",
+    "This post was a collaboration between": "Cet article est le fruit d'une collaboration entre",
     "youremail@example.com": "votreemail@exemple.fr",
     "1 post": "Un article",
     "% posts": "% articles",
-    "1 min read": "1 min read",
-    "% min read": "% min read"
+    "1 min read": "1 min de lecture",
+    "% min read": "% min de lecture"
 }
