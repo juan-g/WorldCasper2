@@ -14,10 +14,7 @@ Currently available languages:
 - Finnish (`fi`)
 - French (`fr`)
 - German (`de`)
-<<<<<<< HEAD
-=======
 - Romanian (`ro`)
->>>>>>> e5a7775af837a86ae2f62b3f2b5cc3cfe523b801
 - Spanish (`es`)
 - Swedish (`sv`)
 
