@@ -22,3 +22,5 @@ projectFilesBackup
 .DS_Store
 
 dist/
+.github/ISSUE_TEMPLATE.md
+.github/ISSUE_TEMPLATE.md

@@ -14,6 +14,10 @@
     "A collection of % posts": "Eine Sammlung von % Artikel",
     "Get the latest posts delivered right to your inbox": "Erhalte die neusten Artikel direkt in deine Mailbox",
     "Latest Posts": "Neuster Artikel",
+<<<<<<< HEAD
+=======
+    "<a href='{url}'>More posts</a> by {name}": "<a href='{url}'>More posts</a> by {name}",
+>>>>>>> e5a7775af837a86ae2f62b3f2b5cc3cfe523b801
     "No posts": "Keine Artikel",
     " (Page %)": " (Seite %)",
     "Read More": "Weiterlesen",
@@ -21,7 +25,16 @@
     "See all % posts": "Zeige alle % Artikel",
     "Share this": "Teile dies",
     "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox": "Bleibe auf dem Laufenden! Erhalte alle neuen Artikel direkt in deine Mailbox geliefert",
+<<<<<<< HEAD
     "youremail@example.com": "deine@emailadresse.de",
     "1 post": "1 Artikel",
     "% posts": "% Artikel"
+=======
+    "This post was a collaboration between": "This post was a collaboration between",
+    "youremail@example.com": "deine@emailadresse.de",
+    "1 post": "1 Artikel",
+    "% posts": "% Artikel",
+    "1 min read": "1 min read",
+    "% min read": "% min read"
+>>>>>>> e5a7775af837a86ae2f62b3f2b5cc3cfe523b801
 }
