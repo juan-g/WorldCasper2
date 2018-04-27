@@ -14,10 +14,7 @@
     "A collection of % posts": "共%篇文章",
     "Get the latest posts delivered right to your inbox": "最新文章直达邮箱",
     "Latest Posts": "最新文章",
-<<<<<<< HEAD
-=======
     "<a href='{url}'>More posts</a> by {name}": "<a href='{url}'>More posts</a> by {name}",
->>>>>>> e5a7775af837a86ae2f62b3f2b5cc3cfe523b801
     "No posts": "没有文章",
     " (Page %)": " (第%页)",
     "Read More": "阅读更多",
@@ -25,16 +22,10 @@
     "See all % posts": "查看所有%篇文章",
     "Share this": "分享",
     "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox": "保持更新！所有最新最好的文章全部送进你的邮箱",
-<<<<<<< HEAD
-    "youremail@example.com": "youremail@example.com",
-    "1 post": "1 篇文章",
-    "% posts": "% 篇文章"
-=======
     "This post was a collaboration between": "This post was a collaboration between",
     "youremail@example.com": "youremail@example.com",
     "1 post": "1 篇文章",
     "% posts": "% 篇文章",
     "1 min read": "1 min read",
     "% min read": "% min read"
->>>>>>> e5a7775af837a86ae2f62b3f2b5cc3cfe523b801
 }
