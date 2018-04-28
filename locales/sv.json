@@ -14,7 +14,7 @@
     "A collection of % posts": "En samling av % artiklar",
     "Get the latest posts delivered right to your inbox": "Få de senaste artiklarna levereras direkt till din inkorg",
     "Latest Posts": "Senaste artiklarna",
-    "<a href='{url}'>More posts</a> by {name}": "<a href='{url}'>More posts</a> by {name}",
+    "<a href='{url}'>More posts</a> by {name}": "<a href='{url}'>Fler artiklar</a> av {name}",
     "No posts": "Inga artiklar",
     " (Page %)": " (Sida %)",
     "Read More": "Läs mer",
@@ -22,10 +22,10 @@
     "See all % posts": "Se alla % artiklar",
     "Share this": "Dela detta",
     "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox": "Håll dig uppdaterad! Få alla de senaste och bästa artiklarna levereras direkt till din inkorg.",
-    "This post was a collaboration between": "This post was a collaboration between",
+    "This post was a collaboration between": "Denna artikel var ett samarbete mellan",
     "youremail@example.com": "dinemail@exempel.se",
     "1 post": "1 artikel",
     "% posts": "% artiklar",
-    "1 min read": "1 min read",
-    "% min read": "% min read"
+    "1 min read": "1 minut läsning",
+    "% min read": "% minuters läsning"
 }
