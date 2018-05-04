@@ -13,6 +13,7 @@ Currently available languages:
 - English (`en`)
 - Finnish (`fi`)
 - French (`fr`)
+- Italian (`it`)
 - German (`de`)
 - Romanian (`ro`)
 - Spanish (`es`)
