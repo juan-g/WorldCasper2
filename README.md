@@ -15,6 +15,7 @@ Currently available languages:
 - French (`fr`)
 - Italian (`it`)
 - German (`de`)
+- Lithuanian (`lt`)
 - Romanian (`ro`)
 - Spanish (`es`)
 - Swedish (`sv`)
