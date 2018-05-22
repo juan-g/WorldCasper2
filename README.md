@@ -10,6 +10,7 @@ For example, in _.hbs_ theme templates:
 Currently available languages:
 
 - Chinese (`zh`)
+- Croatian (`hr`)
 - English (`en`)
 - Finnish (`fi`)
 - French (`fr`)
