@@ -17,6 +17,7 @@ Currently available languages:
 - German (`de`)
 - Italian (`it`)
 - Lithuanian (`lt`)
+- Polish (`pl`)
 - Romanian (`ro`)
 - Spanish (`es`)
 - Swedish (`sv`)
