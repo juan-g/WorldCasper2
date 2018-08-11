@@ -9,6 +9,7 @@ For example, in _.hbs_ theme templates:
 
 Currently available languages:
 
+- Brazilian Portuguese (`pt-BR`)
 - Chinese (`zh`)
 - Croatian (`hr`)
 - English (`en`)
@@ -19,6 +20,7 @@ Currently available languages:
 - Lithuanian (`lt`)
 - Polish (`pl`)
 - Romanian (`ro`)
+- Russian (`ru`)
 - Spanish (`es`)
 - Swedish (`sv`)
 
