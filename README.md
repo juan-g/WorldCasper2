@@ -10,6 +10,7 @@ For example, in _.hbs_ theme templates:
 Currently available languages:
 
 - Brazilian Portuguese (`pt-BR`)
+- Canadian French (`fr-CA`)
 - Chinese (`zh`)
 - Croatian (`hr`)
 - English (`en`)
