@@ -25,6 +25,10 @@ Currently available languages:
 - Spanish (`es`)
 - Swedish (`sv`)
 
+### Funny caracters
+
+You might pay attention to sign like `’` which is not the same as `
+
 The master branch is Casper.
 
 The translatable branch is [i18n-translatable-frontend](https://github.com/juan-g/WorldCasper2/tree/i18n-translatable-frontend).
