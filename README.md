@@ -20,6 +20,7 @@ Currently available languages:
 - Italian (`it`)
 - Lithuanian (`lt`)
 - Polish (`pl`)
+- Norwegian Bokmål (`no-NB`)
 - Romanian (`ro`)
 - Russian (`ru`)
 - Spanish (`es`)
