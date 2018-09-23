@@ -35,7 +35,7 @@ You'll notice that we *don't* use any JavsScript, or ghost_head / ghost_foot in 
                 <section class="error-message">
                     <h1 class="error-code">{{code}}</h1>
                     <p class="error-description">{{message}}</p>
-                    <a class="error-link" href="{{@blog.url}}">Go to the front page →</a>
+                    <a class="error-link" href="{{@blog.url}}">{{t "Go to the front page"}} →</a>
                 </section>
 
                 {{#if errorDetails}}
@@ -47,8 +47,8 @@ You'll notice that we *don't* use any JavsScript, or ghost_head / ghost_foot in 
                                 <em class="error-stack-function">{{{rule}}}</em>
 
                                 {{#each failures}}
-                                    <p><span class="error-stack-file">Ref: {{ref}}</span></p>
-                                    <p><span class="error-stack-file">Message: {{message}}</span></p>
+                                    <p><span class="error-stack-file">{{t "Ref:"}} {{ref}}</span></p>
+                                    <p><span class="error-stack-file">{{t "Message:"}} {{message}}</span></p>
                                 {{/each}}
                             </li>
                         {{/each}}

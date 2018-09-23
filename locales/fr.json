@@ -3,7 +3,7 @@
     "Newer Posts": "Articles plus récents",
     "Older Posts": "Articles plus anciens",
     "Page {page} of {pages}": "Page {page} sur {pages}",
-    "Subscribe": "S'abonner",
+    "Subscribe": "S’abonner",
     "Subscribe to {blogtitle}": "S’abonner à {blogtitle}",
     "Subscribed!": "Abonné !",
     "with the email address": "avec l’adresse e-mail",
@@ -27,5 +27,8 @@
     "1 post": "Un article",
     "% posts": "% articles",
     "1 min read": "1 min de lecture",
-    "% min read": "% min de lecture"
+    "% min read": "% min de lecture",
+    "Go to the front page":"Aller sur la page d’accueil",
+    "Ref:":"Réf. :",
+    "Message:":"Message :"
 }
