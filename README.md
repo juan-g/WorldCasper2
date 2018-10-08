@@ -17,6 +17,7 @@ Currently available languages:
 - Finnish (`fi`)
 - French (`fr`)
 - German (`de`)
+- Indonesian (`id`)
 - Italian (`it`)
 - Lithuanian (`lt`)
 - Norwegian Bokmål (`nb`)
@@ -25,6 +26,7 @@ Currently available languages:
 - Russian (`ru`)
 - Spanish (`es`)
 - Swedish (`sv`)
+- Turkish (`tr`)
 
 The master branch is Casper.
 
