@@ -17,6 +17,7 @@ Currently available languages:
 - Finnish (`fi`)
 - French (`fr`)
 - German (`de`)
+- Hungarian (`hu`)
 - Indonesian (`id`)
 - Italian (`it`)
 - Lithuanian (`lt`)
