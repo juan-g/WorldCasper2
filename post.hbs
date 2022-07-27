@@ -85,11 +85,11 @@ into the {body} of the default.hbs template --}}
                         style="background-image: url({{../primary_tag.feature_image}})"
                     {{else}}
                         {{#if @blog.cover_image}}
-                            style="background-image: url({{@blog.cover_image}})"{{/if}}
+                            style="background-image: url({{@site.cover_image}})"{{/if}}
                     {{/if}}
                 >
                     <header class="read-next-card-header">
-                        <small class="read-next-card-header-sitetitle">&mdash; {{@blog.title}} &mdash;</small>
+                        <small class="read-next-card-header-sitetitle">&mdash; {{@site.title}} &mdash;</small>
                         {{#../primary_tag}}
                         <h3 class="read-next-card-header-title"><a href="{{url}}">{{name}}</a></h3>
                         {{/../primary_tag}}
