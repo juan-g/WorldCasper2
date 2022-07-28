@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{lang}}">
+<html lang="{{@site.locale}}">
 <head>
 
     {{!-- Document Settings --}}
@@ -28,9 +28,9 @@
         {{!-- The footer at the very bottom of the screen --}}
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
-                <section class="copyright"><a href="{{@blog.url}}">{{@blog.title}}</a> &copy; {{date format="YYYY"}}</section>
+                <section class="copyright"><a href="{{@site.url}}">{{@site.title}}</a> &copy; {{date format="YYYY"}}</section>
                 <nav class="site-footer-nav">
-                    <a href="{{@blog.url}}">{{t "Latest Posts"}}</a>
+                    <a href="{{@site.url}}">{{t "Latest Posts"}}</a>
                     {{#if @blog.facebook}}<a href="{{facebook_url @blog.facebook}}" target="_blank" rel="noopener">Facebook</a>{{/if}}
                     {{#if @blog.twitter}}<a href="{{twitter_url @blog.twitter}}" target="_blank" rel="noopener">Twitter</a>{{/if}}
                     <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
@@ -46,7 +46,7 @@
         <a class="subscribe-overlay-close" href="#"></a>
         <div class="subscribe-overlay-content">
             {{#if @blog.logo}}
-                <img class="subscribe-overlay-logo" src="{{@blog.logo}}" alt="{{@blog.title}}" />
+                <img class="subscribe-overlay-logo" src="{{@site.logo}}" alt="{{@site.title}}" />
             {{/if}}
             <h1 class="subscribe-overlay-title">{{t "Subscribe to {blogtitle}" blogtitle=@blog.title}}</h1>
             <p class="subscribe-overlay-description">{{t "Stay up to date! Get all the latest & greatest posts delivered straight to your inbox"}}</p>
